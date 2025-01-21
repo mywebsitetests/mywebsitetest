@@ -1,0 +1,22 @@
+body{
+    background-color: mintcream;
+}
+
+ul, a{
+    color: aqua;    
+}
+h1{
+    text-align: center;
+    background-color: blue;
+    color: goldenrod;
+}
+p{
+    font-family: serif;
+    font-style: italic;
+    font-size: 115%;
+    font-variant: small-caps;
+    clear: both;
+    text-align: justify;
+}
+
+  
